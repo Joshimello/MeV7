@@ -1,7 +1,7 @@
-<script>
-	import '../app.css';
-</script>
+<svelte:head>
+  <title>Joshua Lean</title>
+</svelte:head>
 
 <slot>
-	
+
 </slot>
