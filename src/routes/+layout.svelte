@@ -1,8 +1,7 @@
 <script>
-  import '$lib/fonts.css'
-  import 'virtual:windi.css'
+	import '../app.css';
 </script>
 
-<div class="flex flex-col p-4 gap-16">
-  <slot/>  
-</div>
+<slot>
+	
+</slot>
