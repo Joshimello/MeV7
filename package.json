@@ -34,10 +34,13 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"@fontsource-variable/plus-jakarta-sans": "^5.0.21",
 		"@threlte/core": "^7.3.0",
 		"@threlte/extras": "^8.11.2",
 		"@threlte/rapier": "^2.0.0",
+		"bits-ui": "^0.21.12",
 		"clsx": "^2.1.1",
+		"svelte-radix": "^1.1.0",
 		"tailwind-merge": "^2.3.0",
 		"tailwind-variants": "^0.2.1",
 		"three": "^0.159.0"
