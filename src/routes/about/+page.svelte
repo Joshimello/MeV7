@@ -18,14 +18,18 @@
       <Table.Body>
         <Table.Row>
           <Table.Cell class="">Contact</Table.Cell>
-          <Table.Cell class="text-right font-semibold">
-            joshualeanjw@gmail.com
+          <Table.Cell class="text-right font-semibold"> 
+            <a href="mailto:joshualeanjw@gmail.com" target="_blank">
+              joshualeanjw@gmail.com
+            </a>
           </Table.Cell>
         </Table.Row>
         <Table.Row>
           <Table.Cell class="">GitHub</Table.Cell>
           <Table.Cell class="text-right font-semibold">
-            github.com/Joshimello
+            <a href="https://github.com/Joshimello" target="_blank">
+              github.com/Joshimello
+            </a>
           </Table.Cell>
         </Table.Row>
         <Table.Row>
@@ -36,7 +40,7 @@
         </Table.Row>
       </Table.Body>
     </Table.Root>
-    <div class="flex-shrink-0 h-72 w-96 rounded-xl overflow-hidden">
+    <div class="flex-shrink-0 h-72 w-full sm:w-96 rounded-xl overflow-hidden">
       <img src="me.jpg" alt="me" class="w-full h-full object-cover" />
     </div>
   </div>
